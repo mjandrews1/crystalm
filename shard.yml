@@ -1,0 +1,10 @@
+name: crystalm
+version: 0.1.0
+description: M/MUMPS in Crystal - A port of RFC to Crystal language
+authors: [Mark J. Andrews]
+license: AGPL-3.0-or-later
+crystal: ">= 1.0.0"
+
+targets:
+  crystalm:
+    main: src/main.cr
